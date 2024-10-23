@@ -18,7 +18,6 @@ This project implements a basic compiler for a toy programming language. The lan
 - [Example Program](#example-program)
 - [Error Handling](#error-handling)
 - [Conclusion](#conclusion)
-- [Future Improvements](#future-improvements)
 
 ## Language Features
 This toy programming language includes the following features:
