@@ -132,12 +132,3 @@ This toy programming language illustrates the key concepts of compiler design:
 
 The project provides a foundation for understanding how compilers work and can be extended with more advanced features.
 
-## Future Improvements
-- **Loops**: Add support for loops (`while` or `for`).
-- **Error Handling**: Improve error handling to provide more detailed error messages.
-- **Functions**: Add support for function definitions and calls.
-- **Data Types**: Implement support for data types like integers, strings, and booleans.
-
----
-
-Feel free to explore the code and extend it with additional features to make the toy language more powerful!
